@@ -59,3 +59,5 @@ streamlit run app.py
 - Alpha Vantage — Real-time Stock Data
 - YouTube Transcript API — Video Transcripts
 - DuckDuckGo Search — Web Search
+
+  ## Live Demo:https://aiagentsappgit-hnspyfgi7exnymh96fb8bq.streamlit.app/
