@@ -3,6 +3,7 @@ groq==1.4.0
 streamlit==1.57.0
 yfinance==1.4.0
 duckduckgo-search==8.1.1
+ddgs
 python-dotenv==1.2.2
 youtube-transcript-api==1.2.4
 requests==2.32.3
